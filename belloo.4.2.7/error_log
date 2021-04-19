@@ -1,0 +1,88 @@
+[07-May-2020 21:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/evoluti1/public_html/assets/includes/connect.php:298
+Stack trace:
+#0 /home/evoluti1/public_html/assets/includes/connect.php(17): sitePlugins()
+#1 /home/evoluti1/public_html/assets/includes/core.php(4): require_once('/home/evoluti1/...')
+#2 /home/evoluti1/public_html/index.php(15): require_once('/home/evoluti1/...')
+#3 {main}
+  thrown in /home/evoluti1/public_html/assets/includes/connect.php on line 298
+[07-May-2020 21:56:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/evoluti1/public_html/assets/includes/connect.php on line 9
+[07-May-2020 22:09:56 UTC] PHP Notice:  Undefined index: HTTPS in /home/evoluti1/public_html/assets/includes/connect.php on line 25
+[07-May-2020 22:26:11 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:26:27 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:26:58 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:27:45 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:11 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:15 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:23 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:30 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:31 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:33 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:55 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:28:59 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:29:21 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:29:50 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:30:10 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:30:19 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:30:30 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:30:33 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:30:44 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:30:44 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:49:01 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:49:20 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:49:20 UTC] PHP Notice:  Undefined index: content in /home/evoluti1/public_html/themes/default/layout/Top-Menu.phtml on line 156
+[07-May-2020 22:49:23 UTC] PHP Notice:  Undefined index: HTTPS in /home/evoluti1/public_html/assets/includes/connect.php on line 25
+[07-May-2020 22:49:25 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:49:45 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:49:52 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 22:50:09 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:44:39 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:45:52 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:46:07 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:47:13 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:48:12 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:48:20 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:48:26 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:48:30 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:48:34 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:54:35 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:54:56 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:55:06 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:55:17 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:55:20 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:55:33 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:56:02 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:56:10 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:56:28 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:56:35 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:57:01 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:57:15 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:57:47 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:57:51 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:57:55 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[07-May-2020 23:58:04 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:00:06 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:00:13 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:00:22 UTC] PHP Notice:  Undefined index: HTTPS in /home/evoluti1/public_html/assets/includes/connect.php on line 25
+[08-May-2020 00:00:22 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:00:22 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/evoluti1/public_html/assets/includes/connect.php on line 175
+[08-May-2020 00:00:23 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:00:27 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:01:56 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:02:00 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:02:11 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:02:12 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:02:16 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:02:23 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:02:38 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:02:40 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:06:41 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:06:41 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 00:06:46 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 02:30:47 UTC] PHP Notice:  Undefined index: HTTPS in /home/evoluti1/public_html/assets/includes/connect.php on line 25
+[08-May-2020 02:30:48 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 02:30:48 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/evoluti1/public_html/assets/includes/connect.php on line 175
+[08-May-2020 02:30:49 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 07:41:13 UTC] PHP Notice:  Undefined index: HTTPS in /home/evoluti1/public_html/assets/includes/connect.php on line 25
+[08-May-2020 07:41:14 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
+[08-May-2020 08:45:58 UTC] PHP Notice:  Undefined index: HTTPS in /home/evoluti1/public_html/assets/includes/connect.php on line 25
+[08-May-2020 08:46:00 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'uk' is invalid in /home/evoluti1/public_html/assets/includes/connect.php on line 33
